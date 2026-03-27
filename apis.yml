@@ -1,0 +1,40 @@
+aid: curlie
+name: Curlie
+description: >-
+  Curlie is a frontend to curl that adds the ease of use of HTTPie without sacrificing curl's power and features.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+      - Clients
+      - CLI
+      - HTTP Client
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/curlie/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: curlie:curlie
+    name: Curlie
+    description: >-
+      Curlie is a frontend to curl that adds the ease of use of HTTPie without sacrificing curl's power and features.
+    humanURL: https://curlie.io
+    tags:
+        - Clients
+        - CLI
+        - HTTP Client
+    properties:
+      - type: Documentation
+        url: https://github.com/rs/curlie#readme
+      - type: Getting Started
+        url: https://github.com/rs/curlie#install
+common:
+  - type: Website
+    url: https://curlie.io
+  - type: Documentation
+    url: https://github.com/rs/curlie#readme
+  - type: GitHub Organization
+    url: https://github.com/rs/curlie
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
