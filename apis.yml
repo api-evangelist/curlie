@@ -28,6 +28,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/curlie-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/curlie-directory
   - type: Website
